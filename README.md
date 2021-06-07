@@ -12,9 +12,11 @@
 ------------------------------
 ИСТОЧНИК: 
 
-* Практический курс / Ваш первый интерактивный пользовательский интерфейс / Your first interactive UI / https://developer.android.com/codelabs/android-training-layout-editor-part-a?index=..%2F..%2Fandroid-training#0
-* Код -https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/HelloToastChallenge
-* Код - https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/HelloToast
+* 1.2 часть A: Ваш первый интерактивный пользовательский интерфейс / Your first interactive UI / https://developer.android.com/codelabs/android-training-layout-editor-part-a?index=..%2F..%2Fandroid-training#0 /
+* Код решения Hello Toast / https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/HelloToast / Код второго примера в этом упражнении / https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/HelloToastChallenge /
+* 1.2 часть B: Редактор макетов / Android fundamentals 01.2 Part B:The layout editor / https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training#0 / https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training&hl=ru#0 /
+* Код решения / https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/HelloToastChallenge2 / https://github.com/google-developer-training/android-fundamentals-apps-v2/tree/master/HelloToast /
+* 1.4: научитесь помогать себе / 1.4: Learn to help yourself / https://developer.android.com/codelabs/android-training-available-resources?index=..%2F..%2Fandroid-training#0 / https://developer.android.com/codelabs/android-training-available-resources?index=..%2F..%2Fandroid-training&hl=ru#0 /
 
 ------------------------------
 Изображение приложения:
